@@ -13,5 +13,6 @@ hi, I am,
                                                                                                                              
 </pre>
 
-My current goal is to deeply understand computers.. :)
-I will have my own startup One day. !! eheh
+current goal => is to deeply understand computers.
+-> interested in advance tech
+
