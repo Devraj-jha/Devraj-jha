@@ -20,7 +20,6 @@
 **Languages ->** Python, C++  
 **Goal ->** 1 project/week  
 **Hobbies ->** Badminton, Philosophy, 
-Sketching  
-   
+Sketching    
   </tr>
 </table>
