@@ -8,3 +8,8 @@
 ╚═════╝░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░  ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝
 </pre>
 ![demo](https://github.com/user-attachments/assets/f1fbbb32-6fe0-4e42-9480-c18c303d1c1b)⠀⠀⠀⠀⠀⠀
+Operating system-> Mac os, Linux 
+Code editor -> Vs Code 
+Languagees -> Python, C++
+Current Goal -> 1 project/week
+Hobbies -> Badminton, Philosophy, Sketching
