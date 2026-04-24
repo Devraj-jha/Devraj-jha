@@ -13,13 +13,13 @@
       <img src="https://github.com/user-attachments/assets/f1fbbb32-6fe0-4e42-9480-c18c303d1c1b" width="500"/>
     </td>
     <td>
-<h3 align="center"><u>About Me</u></h3>
-      
+
 **OS ->** macOS, Linux  
 **Editor ->** VS Code  
 **Languages ->** Python, C++  
 **Goal ->** 1 project/week  
-**Hobbies ->** Badminton, Philosophy, 
-Sketching    
+**Hobbies ->** Badminton, Philosophy,
+Sketching  
+   </td>
   </tr>
 </table>
