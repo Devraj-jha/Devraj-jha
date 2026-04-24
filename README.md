@@ -1,4 +1,5 @@
 <pre>  
+
 ██████╗░███████╗██╗░░░██╗██████╗░░█████╗░░░░░░██╗  ░░░░░██╗██╗░░██╗░█████╗░
 ██╔══██╗██╔════╝██║░░░██║██╔══██╗██╔══██╗░░░░░██║  ░░░░░██║██║░░██║██╔══██╗
 ██║░░██║█████╗░░╚██╗░██╔╝██████╔╝███████║░░░░░██║  ░░░░░██║███████║███████║
@@ -14,11 +15,11 @@
     <td>
 
       
-**OS:** macOS, Linux  
-**Editor:** VS Code  
-**Languages:** Python, C++  
-**Goal:** 1 project/week  
-**Hobbies:** Badminton, Philosophy, 
+**OS ->** macOS, Linux  
+**Editor ->** VS Code  
+**Languages ->** Python, C++  
+**Goal ->** 1 project/week  
+**Hobbies ->** Badminton, Philosophy, 
 Sketching  
 
    
