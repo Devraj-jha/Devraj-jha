@@ -16,7 +16,7 @@
 
 **OS ->** macOS, Linux  
 **Editor ->** VS Code  
-**Languages ->** Python, C++  
+**Languages ->** Python, C++, Javascript 
 **Goal ->** 1 project/week  
 **Hobbies ->** Badminton, Philosophy,
 Sketching  
