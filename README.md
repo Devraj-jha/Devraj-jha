@@ -13,7 +13,7 @@
       <img src="https://github.com/user-attachments/assets/f1fbbb32-6fe0-4e42-9480-c18c303d1c1b" width="500"/>
     </td>
 <td>
-  <b>OS -></b> macOS, Linux <br>
+  <font color="red"><b>OS -></b></font> macOS, Linux
   <b>Editor -></b> VS Code <br>
   <b>Languages -></b> Python, C++, Javascript <br>
   <b>Framework -></b> React js <br>
