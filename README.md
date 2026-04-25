@@ -16,7 +16,10 @@
 
 **OS ->** macOS, Linux  
 **Editor ->** VS Code  
-**Languages ->** Python, C++, Javascript 
+**Languages ->** Python, C++, 
+Javascript.
+**FrameWork ->** React js
+**Library ->** Numpy, PyGame
 **Goal ->** 1 project/week  
 **Hobbies ->** Badminton, Philosophy,
 Sketching  
