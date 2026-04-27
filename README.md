@@ -1,8 +1,4 @@
-<pre style="font-family: monospace;">
-
-<img width="1144" height="228" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/716f0aeb-1a58-49bb-ac7d-8e358941606b" />
-
-</pre> <br>
+<img width="1144" height="228" alt="ascii-art-text (2)" src="https://github.com/user-attachments/assets/8e7ece73-8c88-4f3d-b9f0-2d1efeb4672c" />
 <table>
   <tr>
     <td>
