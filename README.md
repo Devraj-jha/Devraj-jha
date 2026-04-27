@@ -1,4 +1,11 @@
-<img width="1144" height="228" alt="ascii-art-text (2)" src="https://github.com/user-attachments/assets/8e7ece73-8c88-4f3d-b9f0-2d1efeb4672c" />
+<pre>
+██████╗░███████╗██╗░░░██╗██████╗░░█████╗░░░░░░██╗  ░░░░░██╗██╗░░██╗░█████╗░
+██╔══██╗██╔════╝██║░░░██║██╔══██╗██╔══██╗░░░░░██║  ░░░░░██║██║░░██║██╔══██╗
+██║░░██║█████╗░░╚██╗░██╔╝██████╔╝███████║░░░░░██║  ░░░░░██║███████║███████║
+██║░░██║██╔══╝░░░╚████╔╝░██╔══██╗██╔══██║██╗░░██║  ██╗░░██║██╔══██║██╔══██║
+██████╔╝███████╗░░╚██╔╝░░██║░░██║██║░░██║╚█████╔╝  ╚█████╔╝██║░░██║██║░░██║
+╚═════╝░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░  ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝
+</pre>
 <table>
   <tr>
     <td>
@@ -14,4 +21,4 @@
   <b>Hobbies -></b> Badminton, Philosophy, Sketching
 </td>
   </tr>
-</table>
+</table> make, the ascii better. in the sense it shows differnt, in differnt computers. i want it that it is same in all computers what should id o
