@@ -21,4 +21,4 @@
   <b>Hobbies -></b> Badminton, Philosophy, Sketching
 </td>
   </tr>
-</table> make, the ascii better. in the sense it shows differnt, in differnt computers. i want it that it is same in all computers what should id o
+</table>
