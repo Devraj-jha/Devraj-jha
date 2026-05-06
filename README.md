@@ -14,7 +14,7 @@
 <td>
   <b>OS -></b> macOS, Linux <br>
   <b>Editor -></b> VS Code <br>
-  <b>Languages -></b> Python, C++, Javascript <br>
+  <b>Languages -></b> Python, C++, Javascript,Go <br>
   <b>Framework -></b> React js <br>
   <b>Library -></b> Numpy, PyGame <br>
   <b>Goal -></b> 1 project/week <br>
