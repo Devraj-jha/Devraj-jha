@@ -22,9 +22,18 @@
 </td>
   </tr>
 </table>
-
-## Projects
-
-| Projects |
-| --- |
-| • [Python Projects](https://github.com/Devraj-jha/Python-Projects) - Collection of small Python projects and experiments<br>• [Snake Game](https://github.com/Devraj-jha/Snake-Game) - Classic snake game built using Python<br>• [CodeForces Problems](https://github.com/Devraj-jha/CodeForces-Problem) - Competitive programming and Codeforces problem solutions<br>• [Small Go Projects](https://github.com/Devraj-jha/Small_go_projects) - Collection of small projects built with Go<br>• [Go Webserver No Dependencies](https://github.com/Devraj-jha/golang-webserver-no-deps) - Lightweight web server built in Go without external dependencies<br>• [Automatic Folder Organizer](https://github.com/Devraj-jha/Automatic-Folder-Organizer) - Automatically organizes files into folders using Python<br>• [Portfolio ReactJS](https://github.com/Devraj-jha/Portfolio-Reactjs-) - Personal portfolio website built using React.js<br>• [Rock Paper Scissors](https://github.com/Devraj-jha/Rock-Paper-Scissors-) - Rock Paper Scissors game built using JavaScript |
+<h2>Projects</h2>
+<table width="100%">
+  <tr>
+    <td>
+      • <a href="https://github.com/Devraj-jha/Python-Projects">Python Projects</a> - Collection of small Python projects and experiments<br>
+      • <a href="https://github.com/Devraj-jha/Snake-Game">Snake Game</a> - Classic snake game built using Python<br>
+      • <a href="https://github.com/Devraj-jha/CodeForces-Problem">CodeForces Problems</a> - Competitive programming and Codeforces problem solutions<br>
+      • <a href="https://github.com/Devraj-jha/Small_go_projects">Small Go Projects</a> - Collection of small projects built with Go<br>
+      • <a href="https://github.com/Devraj-jha/golang-webserver-no-deps">Go Webserver No Dependencies</a> - Lightweight web server built in Go without external dependencies<br>
+      • <a href="https://github.com/Devraj-jha/Automatic-Folder-Organizer">Automatic Folder Organizer</a> - Automatically organizes files into folders using Python<br>
+      • <a href="https://github.com/Devraj-jha/Portfolio-Reactjs-">Portfolio ReactJS</a> - Personal portfolio website built using React.js<br>
+      • <a href="https://github.com/Devraj-jha/Rock-Paper-Scissors-">Rock Paper Scissors</a> - Rock Paper Scissors game built using JavaScript
+    </td>
+  </tr>
+</table>
