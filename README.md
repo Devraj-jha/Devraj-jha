@@ -13,22 +13,20 @@ Hi. I am,
     <img width="530" height="280" alt="flowers_growing" src="https://github.com/user-attachments/assets/39b9d4a7-e03d-4191-8890-3cb35237bf51" />
     </td>
     <td style="padding-left: 20px;">
-    <table style="width: 100%; border-collapse: collapse;">
+     <b>OS -></b> macOS, Linux <br>
+<b>Editor -></b> VS Code <br>
+<b>Languages -></b> Python, C++, Javascript, Go <br>
+<b>Framework -></b> React js <br>
+<b>Library -></b> Numpy, PyGame <br>
+<b>Goal -></b> 1 project/week <br>
+<b>Hobbies -></b> Badminton, Philosophy <br>
+<br>
+<table style="margin-top: 8px; border-collapse: collapse;">
   <tr>
-    <td style="border: 1px solid #ddd; padding: 12px; background: #f9f9f9;">
-      <b>OS →</b> macOS, Linux <br>
-      <b>Editor →</b> VS Code <br>
-      <b>Languages →</b> Python, C++, Javascript, Go <br>
-      <b>Framework →</b> React js <br>
-      <b>Library →</b> Numpy, PyGame <br>
-      <b>Goal →</b> 1 project/week <br>
-      <b>Hobbies →</b> Badminton, Philosophy
-    </td>
-  </tr>
-  <tr><td style="height: 10px;"></td></tr> <!-- spacer -->
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 12px; background: #f9f9f9;">
-      <b>Coding →</b> <a href="https://leetcode.com/u/Devraj_jha/">LeetCode</a> &nbsp;|&nbsp; <a href="https://codeforces.com/profile/DJJHA">Codeforces</a>
+    <td style="padding: 0; font-weight: bold; white-space: nowrap;">Coding →</td>
+    <td style="padding-left: 8px;">
+      <a href="https://leetcode.com/u/Devraj_jha/">LeetCode</a> &nbsp;|&nbsp;
+      <a href="https://codeforces.com/profile/DJJHA">Codeforces</a>
     </td>
   </tr>
 </table>
