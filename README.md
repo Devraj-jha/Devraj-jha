@@ -55,7 +55,7 @@ Hi. I am,
       <a href="https://github.com/Devraj-jha/Portfolio-Reactjs-">Portfolio ReactJS</a> - Personal portfolio website built using React.js <br>
       <a href="https://github.com/Devraj-jha/Rock-Paper-Scissors-">Rock Paper Scissors</a> -  Rock Paper Scissors game built using JavaScript
   <td style="width: 280px; padding-left: 30px; vertical-align: top;">
- <img width="540" height="300" alt="computers_cmd" src="https://github.com/user-attachments/assets/a3635a9c-2b59-4413-af45-569c89b6267a" />
+ <img width="500" height="300" alt="computers_cmd" src="https://github.com/user-attachments/assets/a3635a9c-2b59-4413-af45-569c89b6267a" />
 </td>
    </tr>
 </table>
