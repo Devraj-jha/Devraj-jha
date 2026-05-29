@@ -10,8 +10,8 @@ Hi. I am,
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f1fbbb32-6fe0-4e42-9480-c18c303d1c1b" width="500"/>
-    </td>
+      <img width="532" height="466" alt="natureinpc" src="https://github.com/user-attachments/assets/54918a36-24a2-44ce-8988-bf22594ef82f" />
+  </td>
 <td>
   <b>OS -></b> macOS, Linux <br>
   <b>Editor -></b> VS Code <br>
