@@ -10,7 +10,7 @@ Hi. I am,
 <table style="width: 100%; max-width: 1000px;">
   <tr>
     <td>
-    <img width="503" height="280" alt="flowers_growing" src="https://github.com/user-attachments/assets/39b9d4a7-e03d-4191-8890-3cb35237bf51" />
+    <img width="496" height="280" alt="flowers_growing" src="https://github.com/user-attachments/assets/39b9d4a7-e03d-4191-8890-3cb35237bf51" />
     </td>
     <td style="padding-left: 20px;">
      <b>OS -></b> macOS, Linux <br>
