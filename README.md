@@ -10,7 +10,7 @@ Hi. I am,
 <table style="width: 100%; max-width: 1000px;">
   <tr>
     <td>
-      <img width="500" height="288" alt="flowers"
+      <img width="530" height="288" alt="flowers"
       src="https://github.com/user-attachments/assets/fbcc6c15-48c3-425c-80e1-9cb3740d87c5" />
     </td>
     <td style="padding-left: 20px;">
