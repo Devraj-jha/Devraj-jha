@@ -51,6 +51,7 @@ Hi. I am,
         <a href="https://github.com/Devraj-jha/golang-webserver-no-deps">Go Webserver No Dependencies</a> - Lightweight web server built in Go without external libraries <br>
       <a href="https://github.com/Devraj-jha/Python-Projects">Python Projects</a> - Collection of small Python projects and experiments <br>
       <a href="https://github.com/Devraj-jha/Snake-Game">Snake Game</a> - Classic snake game built using Python and PyGame <br>
+         <a href="https://github.com/Devraj-jha/Minimal_Type">Minimal Chat</a> - An Created A minimal Premium Typing application In React <br>
       <a href="https://github.com/Devraj-jha/CodeForces-Problem">CodeForces Problems</a> - Competitive programming and Codeforces problem solutions <br>
       <a href="https://github.com/Devraj-jha/Small_go_projects">Small Go Projects</a> - Small backend and utility projects built with Go <br>
       <a href="https://github.com/Devraj-jha/Portfolio-Reactjs-">Portfolio ReactJS</a> - Personal portfolio website built using React.js <br>
