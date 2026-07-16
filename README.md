@@ -43,22 +43,14 @@ Hi. I am,
 
 <h2>Projects</h2>
 
-<table style="width: 100%; max-width: 1000px;">
-   <tr>
-    <td style="vertical-align: top;">
-       <a href="https://github.com/Devraj-jha/IP-Tracker.git">IP Tracker</a> - An IP tracker Built in Go, that tells you or somebody's else locations and other infomation.  <br>
-        <a href="https://github.com/Devraj-jha/Automatic-Folder-Organizer">Automatic Folder Organizer</a> -Python tool that automatically organizes files into folders <br>
-        <a href="https://github.com/Devraj-jha/golang-webserver-no-deps">Go Webserver No Dependencies</a> - Lightweight web server built in Go without external libraries <br>
-      <a href="https://github.com/Devraj-jha/Python-Projects">Python Projects</a> - Collection of small Python projects and experiments <br>
-      <a href="https://github.com/Devraj-jha/Snake-Game">Snake Game</a> - Classic snake game built using Python and PyGame <br>
-         <a href="https://github.com/Devraj-jha/Minimal_Type">Minimal Chat</a> - A minimal Premium Typing application In React <br>
-      <a href="https://github.com/Devraj-jha/CodeForces-Problem">CodeForces Problems</a> - Competitive programming and Codeforces problem solutions <br>
-      <a href="https://github.com/Devraj-jha/Small_go_projects">Small Go Projects</a> - Small backend and utility projects built with Go <br>
-      <a href="https://github.com/Devraj-jha/Portfolio-Reactjs-">Portfolio ReactJS</a> - Personal portfolio website built using React.js <br>
-      <a href="https://github.com/Devraj-jha/Rock-Paper-Scissors-">Rock Paper Scissors</a> -  Rock Paper Scissors game built using JavaScript <br>
 
-  <td style="width: 280px; padding-left: 30px; vertical-align: top;">
- <img width="450" height="300" alt="computers_cmd" src="https://github.com/user-attachments/assets/a3635a9c-2b59-4413-af45-569c89b6267a" />
-</td>
-   </tr>
-</table>
+| **Go Backend & Networking**                                                                                                                                       | **Python & Automation**                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[IP Tracker](https://github.com/Devraj-jha/IP-Tracker)**<br>Lookup IP addresses and retrieve location, ISP, and network information using Go.                   | **[Automatic Folder Organizer](https://github.com/Devraj-jha/Automatic-Folder-Organizer)**<br>Automatically sorts files into organized folders based on file type. |
+| **[Go Webserver (No Dependencies)](https://github.com/Devraj-jha/golang-webserver-no-deps)**<br>A lightweight HTTP server built using only Go's standard library. | **[Python Projects](https://github.com/Devraj-jha/Python-Projects)**<br>A collection of Python scripts, utilities, and programming experiments.                    |
+| **[Small Go Projects](https://github.com/Devraj-jha/Small_go_projects)**<br>Various backend tools and utility projects built with Go.                             | **[Snake Game](https://github.com/Devraj-jha/Snake-Game)**<br>The classic Snake game recreated using Python and Pygame.                                            |
+
+| **Web Development**                                                                                                                        | **Programming & Games**                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Minimal Chat](https://github.com/Devraj-jha/Minimal_Type)**<br>A clean, minimal typing application built with React.                    | **[CodeForces Problems](https://github.com/Devraj-jha/CodeForces-Problem)**<br>Solutions to Codeforces problems with a focus on algorithms and data structures. |
+| **[Portfolio ReactJS](https://github.com/Devraj-jha/Portfolio-Reactjs-)**<br>My personal portfolio website showcasing projects and skills. | **[Rock Paper Scissors](https://github.com/Devraj-jha/Rock-Paper-Scissors-)**<br>A browser-based Rock Paper Scissors game built with JavaScript.                |
